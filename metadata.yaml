@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40368
     wikipedia: http://en.wikipedia.org/wiki/Warburton_Pike
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40019#The-Barren-Ground-of-Northern-Canada
 gutenberg_issued: '2012-06-17'
 gutenberg_type: Text
 identifiers:
